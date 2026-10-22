@@ -1,0 +1,9 @@
+pandas
+numpy
+gradio
+python-docx
+openpyxl
+huggingface-hub
+scikit-learn
+plotly
+matplotlib
